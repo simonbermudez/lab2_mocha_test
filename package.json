@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "Simon Bermudez",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.3.6",
